@@ -1,3 +1,6 @@
-tld
-fuzzywuzzy
+Flask
 requests
+dnspython
+python-whois
+fpdf
+gunicorn
